@@ -1,0 +1,4 @@
+[0m[[0m[0mdebug[0m] [0m[0m[hello-build] Classpath dependencies List()[0m
+[0m[[0m[0mdebug[0m] [0m[0m[hello-build] Dependencies from configurations List()[0m
+[0m[[0m[0mdebug[0m] [0m[0mBloop wrote the configuration of project 'hello-build' to 'C:\Users\non19\Desktop\learn_scala\scala-fundamentals\Hello\project\.bloop\hello-build.json'[0m
+[0m[[0m[32msuccess[0m] [0m[0mGenerated .bloop\hello-build.json[0m
